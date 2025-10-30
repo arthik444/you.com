@@ -5,7 +5,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
 
-An intelligent, conversational AI assistant for health insurance plan search, comparison, and provider lookup. Built with FastAPI, Google Gemini AI,You.com Search API, and React, this system provides transparent multi-step reasoning and verified data from official sources.
+An intelligent, conversational AI assistant for health insurance plan search, comparison, and provider lookup. Built with FastAPI, Google Gemini AI, You.com Search API, and React, this system provides transparent multi-step reasoning and verified data from official sources.
 
 ## Tech Stack
 
