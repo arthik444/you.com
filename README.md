@@ -5,7 +5,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
 
-An intelligent, conversational AI assistant for health-insurance plan search, comparison, and provider lookup, powered by multi-source Retrieval-Augmented Generation (RAG). Built with FastAPI, Google Gemini AI, You.com Search API, and React, the system performs semantic reranking over officially sourced local data (Healthcare.gov, SBCs, provider directories) and real-time web results (You.com Search API). It delivers transparent, multi-step reasoning with verified citations, enabling accurate, explainable, and trustworthy answers.
+An intelligent, conversational AI assistant for health insurance plan search, comparison, and provider lookup. Built with FastAPI, Google Gemini AI,You.com Search API, and React, this system provides transparent multi-step reasoning and verified data from official sources.
 
 ## Tech Stack
 
